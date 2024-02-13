@@ -624,7 +624,7 @@ var APP_DATA = {
           "yaw": 1.8151896542997719,
           "pitch": 0.17104273869705722,
           "rotation": 0,
-          "target": "6-druh-stupe---pzem-2"
+          "target": "15-druh-stupe---1-partro-2"
         }
       ],
       "infoHotspots": [
